@@ -1,6 +1,6 @@
 ## persian language - فارسی
 
-# اپلیکیشن جامع کمک کد گذار
+# اپلیکیشن جامع کمک کد گذار - نسخه آزمایشی
 
 - اپلیکیشن کمک کد گذار و تعرفه گذاری
 ![medo](https://my.uupload.ir/dl/Jgy5YmEV)
@@ -38,7 +38,7 @@
 به راحتی می‌توانید نسخه ویندوز را دانلود و نصب کنید:
 
 - نصب در ویندوز:
-  ابتدا فایل را دانلود کنید: [دانلود نسخه ویندوز](https://my.uupload.ir/dl/mbG2EjAj)
+  ابتدا فایل را دانلود کنید: [دانلود نسخه ویندوز](https://my.uupload.ir/dl/VX7KEeYR)
 - فایل را از حالت فشرده خارج و نصب را به راحتی انجام دهید
 
 ### python file
@@ -62,8 +62,8 @@
 ## لایسنس
 
 - هش 256: 
-##### 7b2f10b3caca5bb53ba90d68872fa6d12700506f8b2e37b24ba3be71f82f89b6    installer file
-##### 3897e3ffce2d7bf23ebc8901275fe29b4e475cf04fd17a1ed8c267dd13ba07bc    exe file           
+##### d36e3c6d00aec716a28484d4bbb4bb9902e94379b2ba096b12f4461a951a0c82    installer file
+##### 4d8bf319f3bc36e96b4e3ccd33b610340e962ceecf79b204d0a5751f123a3adf    exe file           
 
 
 
@@ -83,7 +83,7 @@
 
 ## English Language
 
-# Comprehensive Assistant Coder Application
+# Comprehensive Assistant Coder Application - Demo Version
 
 - Assistant Coder and Income Management Application  
 ![medo](https://my.uupload.ir/dl/Jgy5YmEV)
@@ -116,7 +116,7 @@ The Assistant Coder Windows application comes with the following features:
 You can easily download and install the Windows version:
 
 - Installation on Windows:
-  First, download the file: [Download Windows Version](https://my.uupload.ir/dl/mbG2EjAj)
+  First, download the file: [Download Windows Version](https://my.uupload.ir/dl/VX7KEeYR)
 - Extract the file and follow the easy installation process.
 
 ### Python File

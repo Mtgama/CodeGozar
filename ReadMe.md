@@ -2,8 +2,8 @@
 
 # اپلیکیشن جامع کمک کد گذار
 
-- اپلیکیشن کمک کد گذار و درآمدیار
-![medo](https://s5.uupload.ir/files/matgama/final.png)
+- اپلیکیشن کمک کد گذار و تعرفه گذاری
+![medo](https://my.uupload.ir/dl/Jgy5YmEV)
 
 ## فهرست مطالب
 
@@ -22,7 +22,7 @@
 - دارای دیتابیس آفلاین شامل : icd10 - icd11 - icd-o - icd9cm - icdpcs
 - دارای سیستم هوش مصنوعی کد گذاری با قابلیت پشتیبانی از زبان فارسی
 - cpt , loinc , lvc 
-- قابلیت خوانش ئستخط پزشک - ارائه بعد اتمام فاز تحقیقاتی
+- قابلیت خوانش دستخط پزشک - ارائه بعد اتمام فاز تحقیقاتی
 - کاملا رایگان و متن باز
 - صد در صد امن
 - پشتیبانی توسط تیم مدوفایل - گروه فناوران سلامت
@@ -82,7 +82,7 @@
 # Comprehensive Assistant Coder Application
 
 - Assistant Coder and Income Management Application  
-![medo](https://s5.uupload.ir/files/matgama/final.png)
+![medo](https://my.uupload.ir/dl/Jgy5YmEV)
 
 ## Table of Contents
 
